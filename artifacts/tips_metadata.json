@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.26+commit.8a97fa7a"
+		"version": "0.8.31+commit.fd3a2265"
 	},
 	"language": "Solidity",
 	"output": {
@@ -46,7 +46,7 @@
 		"compilationTarget": {
 			"tipjar.sol": "tips"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "osaka",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -59,11 +59,11 @@
 	},
 	"sources": {
 		"tipjar.sol": {
-			"keccak256": "0x5c0926ba7d56b05e2d53be89e1f0723b18121da013739acf5168d1398152128d",
+			"keccak256": "0x2fca33c0d3aef5b64e0bdef548d2706703fad750a01a9053ea40c0476fb82316",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://5b0c04fffe1dd60207e4352a13031229b94e751acb92e00c5adaf68f8b70aa4b",
-				"dweb:/ipfs/Qme3uZ3bVEs5B1yXWnoHP3CJricx6rMXAs6YTADydEH2Br"
+				"bzz-raw://821addda8540aa340171459e33c5e5e24f61053f79968946620b12af363a0f07",
+				"dweb:/ipfs/QmZJzxYshQ11DgK3Z3GxfxZMk7TGzqeWzcC44UxnpSbAvT"
 			]
 		}
 	},
