@@ -112,11 +112,11 @@
 	},
 	"sources": {
 		"tipjar.sol": {
-			"keccak256": "0xb3f7953572d7dbc64ee9edb681da7be82e74a81a9ae6ca124756037019a653ef",
+			"keccak256": "0x23430fbff1f88d8937c8806d85e07f87863b886abf800430a7150b5e7c54feb5",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://c62ef9036773f8ac722d171412380687a5d44aaa76f4f09774eb792ccf7e018b",
-				"dweb:/ipfs/QmSeT51mSmXqsqGT6CJJSDixainPktVqtXWm1gYNRhMJYw"
+				"bzz-raw://bdb9ca522156a3869f9feeba082ccc6a4e80e5cd40a2d05041963501b2cb7ef2",
+				"dweb:/ipfs/QmVav3Kbk59gxQ8PjMu3N9xZv3Lr1um6xcVrqGzu4P38LX"
 			]
 		}
 	},
